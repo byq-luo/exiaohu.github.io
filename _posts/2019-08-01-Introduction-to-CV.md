@@ -1,3 +1,9 @@
+---
+layout: mypost
+title: 卷积神经网络及其在计算机视觉方面的应用整理
+categories: [Convolutional Neural Networks, Computer Vision]
+---
+
 # Convolution
 
 ## Discrete convolutions

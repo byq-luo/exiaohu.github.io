@@ -1,3 +1,10 @@
+---
+layout: mypost
+title: 交通相关的方法整理
+categories: [Traffic prediction]
+---
+
+
 ## Traffic Flow Prediction With Big Data: A Deep Learning Approach
 - model: Stacked Autoencoder (SAE) + FC
 - problem: predicting traffic flow on freeways
