@@ -3,9 +3,9 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 EXiaoHu Blog
+> Hello 陌生人，欢迎访问 exiaohu Blog
 
-该博客托管于 GitHub Page，留言页面使用GitHub的*Issues*。
+该博客托管于GitHub Page，留言页面使用GitHub的*Issues*。
 
 主题由[tmaize-blog](https://github.com/TMaize/tmaize-blog)支持。另喜欢本博客的欢迎**添加友链**，在[留言板](chat.html)留言即可
 
@@ -15,11 +15,11 @@ title: 关于我
 
 - 可以熟练使用Python/C/C++/Java/JavaScript等程序设计语言,掌握并熟练应用常用的算法及数据结构
 
-- 可以熟练使用后端框架 Django，Hibernate等，对nodejs express、SSH、SSM等略有了解
+- 可以熟练使用后端框架Django等，对nodejs express、SSH、SSM等略有了解
 
-- 数据库方面能熟练使用MySQL、MariaDB等
+- 能熟练使用MySQL、MariaDB等常用数据库
 
-- 可以熟练使用Pytorch/Sklearn/Scipy/Pandas/Numpy/等常用数据分析工具
+- 可以熟练使用Pytorch/Pandas/Numpy/Sklearn/Scipy等常用数据分析工具
 
 - 可以熟练使用Matplotlib/D3/Echarts等可视化工具集
 
@@ -27,7 +27,7 @@ title: 关于我
 
 - 熟悉Linux的简单使用
 
-- 能够使用 Git/SVN 对代码版本进行控制
+- 能够使用 Git 对代码版本进行控制
 
 
 
@@ -35,6 +35,6 @@ title: 关于我
 
 - QQ : 2690226720
 
-- Email : shuifuzi@gmail.com, xiaohu@buaa.edu.cn
+- Email : shuifuzi@gmail.com
 
 - GitHub : [https://github.com/exiaohu](https://github.com/exiaohu)
