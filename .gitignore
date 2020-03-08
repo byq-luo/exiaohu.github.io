@@ -4,3 +4,5 @@
 /build/dist.tar
 /build/upload.exe
 /.idea
+
+.DS_Store
